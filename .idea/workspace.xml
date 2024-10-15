@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1a61650-057e-4dec-94e2-23408755dc33" name="Changes" comment="">
+    <list default="true" id="e1a61650-057e-4dec-94e2-23408755dc33" name="Changes" comment="2 files are added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Test001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Test001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lakshmanprasads"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lakshmanprasads&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lakshmanprasads/ATB7xAPIAutomationPrograms1.git",
-    "accountId": "d49cb323-c741-48eb-b950-d1eb9edd171e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lakshmanprasads/ATB7xAPIAutomationPrograms1.git&quot;,
+    &quot;accountId&quot;: &quot;d49cb323-c741-48eb-b950-d1eb9edd171e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2merTQWbF8d5yGgkq8f0fOE4rYu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -55,10 +53,121 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/USER/IdeaProjects/ATB7xAPIAutomationPrograms1/src/test/java/com/thetestingacademy/testng/testng_CRUD.xml.executor": "Run",
+    "TestNG.C:/Users/USER/IdeaProjects/ATB7xAPIAutomationPrograms1/testng001.xml.executor": "Run",
+    "TestNG.HardAsssertVSSoftAssertTestNG.hardAssertExample.executor": "Run",
+    "TestNG.HardAsssertVSSoftAssertTestNG.softAssertExample.executor": "Run",
+    "TestNG.TestCaseIntegration.test_update_request_get.executor": "Run",
+    "TestNG.TestCaseIntegration.test_update_request_put.executor": "Debug",
+    "TestNG.Test_Assertions.executor": "Run",
+    "TestNG.Test_Assertions.test_post.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/ATB7xAPIAutomationPrograms1/src/test/java/com/thetestingacademy/testng",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\ATB7xAPIAutomationPrograms1\src\test\java\com\thetestingacademy\testng" />
+      <recent name="C:\Users\USER\IdeaProjects\ATB7xAPIAutomationPrograms1\target" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test_Assertions">
+    <configuration name="C:/Users/USER/IdeaProjects/ATB7xAPIAutomationPrograms1/src/test/java/com/thetestingacademy/testng/testng_CRUD.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xAPIAutomationPrograms1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/thetestingacademy/testng/testng_CRUD.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardAsssertVSSoftAssertTestNG.hardAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xAPIAutomationPrograms1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Assertions.HardAsssertVSSoftAssertTestNG" />
+      <option name="METHOD_NAME" value="hardAssertExample" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardAsssertVSSoftAssertTestNG.softAssertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xAPIAutomationPrograms1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Assertions.HardAsssertVSSoftAssertTestNG" />
+      <option name="METHOD_NAME" value="softAssertExample" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xAPIAutomationPrograms1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Assertions.Test_Assertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Assertions.test_post" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xAPIAutomationPrograms1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Assertions.Test_Assertions" />
+      <option name="METHOD_NAME" value="test_post" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test_Assertions" />
+        <item itemvalue="TestNG.Test_Assertions.test_post" />
+        <item itemvalue="TestNG.HardAsssertVSSoftAssertTestNG.hardAssertExample" />
+        <item itemvalue="TestNG.HardAsssertVSSoftAssertTestNG.softAssertExample" />
+        <item itemvalue="TestNG.C:/Users/USER/IdeaProjects/ATB7xAPIAutomationPrograms1/src/test/java/com/thetestingacademy/testng/testng_CRUD.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,6 +177,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727447895953</updated>
     </task>
+    <task id="LOCAL-00001" summary="2 files are added">
+      <option name="closed" value="true" />
+      <created>1727449428436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727449428436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 files are added" />
   </component>
 </project>

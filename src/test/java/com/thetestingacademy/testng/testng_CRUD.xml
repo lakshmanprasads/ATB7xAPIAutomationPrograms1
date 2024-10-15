@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/USER/IdeaProjects/ATB7xAPIAutomationPrograms1">
+        <classes>
+        <class name="com.thetestingacademy.testng.TestCaseIntegration">
+            <methods>
+                <include name="test_update_request_put"></include>
+                <include name="test_update_request_get"></include>
+                <include name="test_delete_booking"></include>
+                <include name="test_after_delete_get"></include>
+            </methods>methods
+        </class>
+        </classes>
+    </test>
+</suite>
